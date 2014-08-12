@@ -1,0 +1,5 @@
+!config/
+!*.md
+
+## Remove log files
+*.log
