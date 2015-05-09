@@ -5,3 +5,4 @@ These config files are for personal use and should not be considered 'official' 
 
 ### Branch List
 * **Master** - TPPI (Test pack Please Ignore)
+* **ftb_infinity** - FTB Infinity
