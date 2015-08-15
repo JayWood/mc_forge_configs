@@ -1,2 +1,3 @@
+*.log
 JourneyMapServer/
 !JourneyMapServer/world.cfg
